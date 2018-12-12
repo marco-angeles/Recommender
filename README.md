@@ -1,5 +1,3 @@
-# Recommender
-
 Melbourne Restaurant/Cafe Recommender System
 --------------------------------------------
 
